@@ -1,16 +1,15 @@
-### Hi there 👋
+###Olá me chamo Anna Rafaella
 
-<!--
-**ArafaB/ArafaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sou Técnica em Informática, formada pelo Instituto Federal da Bahia**
 
-Here are some ideas to get you started:
+###Meu Git 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArafaB&theme=radical&show_icons=true)
+
+###Meus Projetos
+
+[![Site-Vagas-MulheresInTech](https://github-readme-stats.vercel.app/api/pin/?username=ArafaB&repo=Site-Vagas-MulheresInTech&theme=radical)](https://github.com/ArafaB/Site-Vagas-MulheresInTech)
+
+###Top Linguagens
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArafaB&theme=radical&layout=compact)
